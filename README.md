@@ -1,2 +1,2 @@
-# pear
-Pear Domotics - Smart IoT Project
+# Pear Domotics
+Smart IoT - University Project
